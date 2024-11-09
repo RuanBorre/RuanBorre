@@ -2,7 +2,7 @@ Oiee! Eu sou o Ruan Borré
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://evolutap.com.br/build/assets/coding-67cd6481.png">
 
 - 📕Estudante de ADS
-- 👨‍💻Praticante de Java
+- 👨‍💻Futuro Desenvolvedor Front-End
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />      
