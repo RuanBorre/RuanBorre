@@ -1,5 +1,5 @@
 Oiee! Eu sou o Ruan Borré
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://evolutap.com.br/build/assets/coding-67cd6481.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="[https://evolutap.com.br/build/assets/coding-67cd6481.png](https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png)">
 
 - 📕Estudante de ADS
 - 👨‍💻Futuro Desenvolvedor Front-End
