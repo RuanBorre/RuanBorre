@@ -1,5 +1,5 @@
 <h1>
-     <img align="right" alt="Ruan-foto" width="300" height="250" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+     <img align="right" alt="Ruan-foto" width="300" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 </h1>
 
 Oiee! Eu sou o Ruan Borré
@@ -16,6 +16,8 @@ Oiee! Eu sou o Ruan Borré
 </div>
   
   
+
+
 
   ##
  
