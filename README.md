@@ -15,8 +15,7 @@ Oiee! Eu sou o Ruan Borré
  
 </div>
   
-  ##
-  ##
+  
 
   ##
  
